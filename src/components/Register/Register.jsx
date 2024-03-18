@@ -20,7 +20,7 @@ const Register = ({ onRouteChange }) => {
                 <MDBRow className='g-0'>
 
                     <MDBCol md='6 flex items-center mb-4'>
-                        <MDBCardImage src='public\Login-Image.png' alt="login form" className='rounded-start w-100' />
+                        <MDBCardImage src='Login-Image.png' alt="login form" className='rounded-start w-100' />
                     </MDBCol>
 
                     <MDBCol md='6'>
