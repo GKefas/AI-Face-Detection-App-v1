@@ -1,0 +1,13 @@
+.logo {
+    background-image: linear-gradient(120deg, rgb(0, 90, 167), rgb(255, 253, 228));
+    height: 120px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LogoImgInside {
+    height: 85px;
+    -webkit-user-drag: none;
+}
