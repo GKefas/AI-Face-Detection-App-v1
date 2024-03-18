@@ -111,7 +111,7 @@ class App extends Component {
           <Navigation onRouteChange={this.onRouteChange} isLoggedIn={isLoggedIn} />
           <Logo />
         </div>
-        <div className="midContainer mb-5">
+        <div className="midContainer mb-5 mt-5">
           {route === 'home' ?
             <>
               <Rank />

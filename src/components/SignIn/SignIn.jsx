@@ -19,7 +19,7 @@ const SignIn = ({ onRouteChange }) => {
       <MDBCard className="pv4 card">
         <MDBRow className='g-0'>
 
-          <MDBCol md='6 flex items-center mb-4'>
+          <MDBCol md='6 flex items-center mb-4 mt-4'>
             <MDBCardImage src='Login-Image.png' alt="login form" className='rounded-start w-100' />
           </MDBCol>
 
