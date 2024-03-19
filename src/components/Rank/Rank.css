@@ -1,0 +1,8 @@
+.shadowText {
+    color: rgb(199, 199, 199);
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.shadowTextOnlyBlack {
+    text-shadow: 2px 2px 4px #341952;
+}

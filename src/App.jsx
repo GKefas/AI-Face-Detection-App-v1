@@ -1,6 +1,7 @@
 import { Component } from "react";
 import ParticlesBg from "particles-bg";
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import 'tachyons';
 import Navigation from "./components/Navigation/Navigation.jsx";

@@ -60,6 +60,14 @@ body {
   font-size: 2.1rem;
 }
 
+:root .rankBackground{
+  width: fit-content;
+  background-color: #eef7ff79;
+  margin: 1rem 2rem;
+  border-radius: 50px;
+  padding: 1.2rem;
+}
+
 
 @media only screen and (max-width:950px) {
 
@@ -108,6 +116,11 @@ body {
   :root .navBar {
     width: fit-content;
     margin-bottom: 3rem;
+  }
+
+  :root .detectBtn {
+    font-size: 17px;
+
   }
 
 }
